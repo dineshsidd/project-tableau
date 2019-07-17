@@ -1,3 +1,6 @@
 # project-tableau
 project-tableau
-![Citibike](Citibike.JPG)
+![Citibike](Page1.JPG)
+![Citibike](Page2.JPG)
+![Citibike](Page3.JPG)
+![Citibike](Page4.JPG)
